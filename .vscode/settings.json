@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "allegro5.h": "c",
+        "allegro.h": "c",
+        "base.h": "c",
+        "alconfig.h": "c",
+        "almngw32.h": "c",
+        "allegro_font.h": "c",
+        "allegro_image.h": "c",
+        "allegro_ttf.h": "c"
+    }
+}
